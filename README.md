@@ -28,7 +28,7 @@ Usage
 License
 =======
 
-The license for this is to of do-whatever-the-hell-you-want-with-it 😊
+The license for this is to of do-whatever-the-hell-you-want-with-it :)
 
 Author
 ======
